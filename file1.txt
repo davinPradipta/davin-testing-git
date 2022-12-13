@@ -1,4 +1,4 @@
 testing development
-- laravel framework 
+- laravel framework, checking di sini kedetect ga
 - migrasi desktop to web 
 
