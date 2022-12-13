@@ -1,4 +1,4 @@
 testing development
 - laravel framework 
 - migrasi desktop to web 
-- meeting di 1/15 coffee besok jam 9 pagi
+
